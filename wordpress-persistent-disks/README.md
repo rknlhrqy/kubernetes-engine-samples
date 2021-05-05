@@ -4,4 +4,6 @@
 
 Follow this tutorial at https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk/
 
-
+## Note
+File "create.sh" is to deploy and run this application.
+File "teardown.sh" is to stop and remove all used resources in this app
